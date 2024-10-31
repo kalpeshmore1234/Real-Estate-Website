@@ -36,6 +36,7 @@
 .home-input{
     width: 460px;
     background-color: white;
+    border: none;
 }
 
 .custom-green-btn {
